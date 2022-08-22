@@ -22,17 +22,17 @@ Auswahl zweier Verzeichnisse zum Vergleich. Ergebnis sind 3 Vergleichslisten in 
 
 Ersetze Dateinamen mit <YYYYMMTT_HHMM_Origin_§_Originalfilename.Filetype>
 Zeiten immer an Sommerzeit und Winterzeit angepasst
-<Pfad>  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen
+'<Pfad>''  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen
 
 ### `fotos   -c <Pfad>`,
 
 Kopiere Dateien in ausgewähltes Zielverzeichnis
-<Pfad>  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen
+'<Pfad>'  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen
 
 ### `fotos   -d <Pfad>`,
 
 Lösche Dateien
-<Pfad>  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen'
+'<Pfad>'  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen'
 
 ## Sprachen
 
