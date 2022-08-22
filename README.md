@@ -20,19 +20,16 @@ Auswahl zweier Verzeichnisse zum Vergleich. Ergebnis sind 3 Vergleichslisten in 
 
 ### `fotos   -r [<Pfad>]`,
 
-Ersetze Dateinamen mit <YYYYMMTT_HHMM_Origin_§_Originalfilename.Filetype>
-Zeiten immer an Sommerzeit und Winterzeit angepasst
-'<Pfad>''  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen
+Ersetze Dateinamen mit <YYYYMMTT_HHMM_Origin_§_Originalfilename.Filetype>.
+Zeiten immer an Sommerzeit und Winterzeit angepasst.
 
 ### `fotos   -c <Pfad>`,
 
-Kopiere Dateien in ausgewähltes Zielverzeichnis
-'<Pfad>'  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen
+Kopiere Dateien in ausgewähltes Zielverzeichnis.
 
 ### `fotos   -d <Pfad>`,
 
-Lösche Dateien
-'<Pfad>'  Pfad zu einer txt-Datei mit Pfaden zu den Dateien, die verarbeitet werden sollen'
+Lösche Dateien.
 
 ## Sprachen
 
