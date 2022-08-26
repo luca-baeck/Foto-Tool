@@ -19,7 +19,7 @@ Bild umbenannt, was eine leichte Sortierung und Ordnung der Bilder ermöglicht.<
 ![Screenshot](/application-preview/vergleich.jpg "Screenshot")
 ![Screenshot](/application-preview/rename_output.png "Screenshot")
 ![Screenshot](/application-preview/rename_output1.png "Screenshot")
-![Screenshot](/application-preview/renaem_output2.png "Screenshot")
+![Screenshot](/application-preview/rename_output2.png "Screenshot")
 ![Screenshot](/application-preview/vergleich_output.png "Screenshot")
 
 
