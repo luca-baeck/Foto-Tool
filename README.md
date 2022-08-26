@@ -10,6 +10,22 @@ Bild umbenannt, was eine leichte Sortierung und Ordnung der Bilder ermöglicht.<
 
 - [Bugs](https://github.com/luca-baeck/Foto-Tool/issues "Issues Page")
 
+## Screenshots
+
+![Screenshot](/application-preview/preview.png "Screenshot")
+![Screenshot](/application-preview/help.png "Screenshot")
+![Screenshot](/application-preview/rename_Moment.jpg "Screenshot")
+![Screenshot](/application-preview/rename_done.jpg "Screenshot")
+![Screenshot](/application-preview/vergleich.jpg "Screenshot")
+![Screenshot](/application-preview/rename_output.png "Screenshot")
+![Screenshot](/application-preview/rename_output1.png "Screenshot")
+![Screenshot](/application-preview/renaem_output2.png "Screenshot")
+![Screenshot](/application-preview/vergleich_output.png "Screenshot")
+
+
+Application Video:
+[Video](/application-preview/preview.mp4 "Video")
+
 ## Available Commands
 
 Im Programm kannst du folgende Befehle ausführen:
