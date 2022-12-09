@@ -28,7 +28,7 @@ Application Video:
 
 ## Available Commands
 
-Im Programm kannst du folgende Befehle ausführen:
+Im Programm kann man folgende Befehle ausführen:
 
 ### `fotos   -v`,
 
